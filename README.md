@@ -1,4 +1,4 @@
 # DSC180A-Methodology-3
-Karthik Sankaran
-ksankaran@ucsd.edu
+Karthik Sankaran and Madhav Pudukottai Krishnaraj
+
 
